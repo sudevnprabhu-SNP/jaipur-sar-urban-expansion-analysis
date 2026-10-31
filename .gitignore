@@ -1,0 +1,32 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Original Sentinel-1 data
+*.SAFE/
+*.safe/
+
+# Large processed raster data
+data/processed/**/*.tif
+data/processed/**/*.tiff
+data/processed/**/*.img
+data/processed/**/*.dim
+data/processed/**/*.data/
+
+# Large geospatial databases
+data/raw/**/*.gpkg
+data/processed/**/*.gpkg
+
+# Temporary files
+*.aux.xml
+*.ovr
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
