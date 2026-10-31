@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it as described below."
+type: software
+title: "Jaipur SAR-Based Urban Expansion Analysis"
+authors:
+  - family-names: "Prabhu"
+    given-names: "Sudev N."
+version: "1.0.0"
+date-released: "2026-10-31"
