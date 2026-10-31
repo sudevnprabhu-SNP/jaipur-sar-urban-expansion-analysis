@@ -1,0 +1,17 @@
+
+numpy
+pandas
+matplotlib
+rasterio
+rioxarray
+xarray
+geopandas
+shapely
+pyproj
+scipy
+scikit-image
+scikit-learn
+fiona
+netCDF4
+jupyter
+ipykernel
