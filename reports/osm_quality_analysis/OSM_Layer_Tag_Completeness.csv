@@ -1,0 +1,11 @@
+layer,total_features,features_with_any_relevant_tag,features_without_any_relevant_tag
+open_public_spaces_point,48,48,0
+roads_line,94126,94126,0
+water_polygons_polygon,75,75,0
+water_lines_line,199,199,0
+landuse_polygon,509,509,0
+open_public_spaces_polygon,353,353,0
+buildings_polygon,44887,44887,0
+roads_point,445,445,0
+landuse_point,1,1,0
+water_lines_point,1,1,0

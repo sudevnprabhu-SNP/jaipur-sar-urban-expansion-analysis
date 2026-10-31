@@ -1,0 +1,15 @@
+JAIPUR MULTI-TEMPORAL SENTINEL-1 SAR ANALYSIS
+======================================================================
+
+Municipal area: 278.3456 km²
+
+TEMPORAL BACKSCATTER CHANGE STATISTICS
+   period  valid_pixels  vv_mean_change_db  vv_median_change_db  vh_mean_change_db  vh_median_change_db  vv_increase_pixels  vv_decrease_pixels  vv_increase_area_km2  vv_decrease_area_km2  vh_increase_pixels  vh_decrease_pixels  joint_increase_pixels  joint_decrease_pixels  joint_increase_area_km2  joint_decrease_area_km2  vv_increase_threshold_db  vh_increase_threshold_db  vv_decrease_threshold_db  vh_decrease_threshold_db
+2016-2020       2783437           0.532635             0.411887           0.124986             0.079102             1692152             1091284              169.2152              109.1284             1458371             1325065                  42330                  40675                   4.2330                   4.0675                  3.872817                  2.691077                 -2.385240                 -2.307913
+2020-2025       2783437           0.691595             0.529099           0.465763             0.399004             1763211             1020223              176.3211              102.0223             1724288             1059148                  45758                  37048                   4.5758                   3.7048                  4.276463                  3.071368                 -2.337759                 -1.956138
+2016-2025       2783437           1.224230             0.935016           0.590749             0.447739             1929903              853533              192.9903               85.3533             1707849             1075587                  48032                  44442                   4.8032                   4.4442                  5.866052                  3.915537                 -2.327783                 -2.268062
+
+INTERPRETATION
+Positive backscatter change indicates an increase in radar backscatter response. Negative change indicates a decrease. These changes may be related to changes in surface properties but are not direct evidence of urban construction or demolition.
+
+The joint candidate masks identify pixels in which both VV and VH changes exceed their respective period-specific 95th or 5th percentile thresholds. They are exploratory SAR change candidates, not validated urban expansion classes.

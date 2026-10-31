@@ -1,0 +1,5 @@
+layer,category,original_feature_count,municipal_feature_count,mapped_area_km2,municipal_area_km2,municipal_coverage_percentage
+landuse_polygon,Land use,509,236,22.156841094561173,278.34564879298165,7.960189494839284
+buildings_polygon,Building footprints,44887,31993,5.827462594384176,278.34564879298165,2.0936064995642614
+open_public_spaces_polygon,Open public spaces,353,242,2.487823447058437,278.34564879298165,0.8937892357385995
+water_polygons_polygon,Water polygons,75,27,0.9327523834631601,278.34564879298165,0.33510578933349544

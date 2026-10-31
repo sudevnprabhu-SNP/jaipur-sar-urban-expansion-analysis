@@ -1,0 +1,6 @@
+osm_id,original_area_km2,clipped_area_km2,clipped_feature_count,landuse,name,industrial,residential,type
+11203285,731403.7808505641,0.0,0,river_basin,Ganga Yamuna River Basin,,,multiline
+17303305,7.344866515562277,7.344866515562224,1,military,Jaipur Cantonment,,,multipolygon
+874643949,3.3582880019195063,3.358288001919814,1,military,,,,
+1008772934,2.986550683932615,2.2760716763094675,1,industrial,,,,
+1008772935,1.5893700385628131,0.0,0,industrial,,,,

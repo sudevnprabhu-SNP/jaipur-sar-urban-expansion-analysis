@@ -1,0 +1,219 @@
+SENTINEL-1 PROCESSING RECORDS AUDIT
+Project: C:\Users\ssat-\Documents\RemoteSensing_Projects\Project_02_Jaipur_SAR_Urban_Expansion
+
+STEP 1: GEOTIFF INSPECTION
+
+=================================================================
+GEOTIFF: Jaipur_S1_2016_VV_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4454 x 3340
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2016_VV_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2016_VH_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4454 x 3340
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2016_VH_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2020_VV_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4453 x 3341
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2020_VV_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2020_VH_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4453 x 3341
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2020_VH_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2025_VV_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4454 x 3340
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2025_VV_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VV',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2025_VH_singleband.tif
+=================================================================
+CRS: EPSG:4326
+Dimensions: 4454 x 3340
+Bands: 1
+Data type: ('float32',)
+Resolution: (8.983152841195215e-05, 8.983152841195215e-05)
+NoData: None
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+=================================================================
+GEOTIFF: Jaipur_S1_2025_VH_UTM43N_10m.tif
+=================================================================
+CRS: EPSG:32643
+Dimensions: 3993 x 3349
+Bands: 1
+Data type: ('float32',)
+Resolution: (10.0, 10.0)
+NoData: -9999.0
+Band descriptions: ('Sigma0_VH',)
+
+Dataset tags:
+  AREA_OR_POINT: Area
+
+Band 1 tags:
+  No band tags found.
+
+STEP 2: SNAP PRODUCT INVENTORY
+
+=================================================================
+SNAP PRODUCT INVENTORY
+=================================================================
+No SNAP DIMAP .dim products found.
+
+STEP 3: SEARCH PROCESSING METADATA
+Metadata files found outside raw SAFE folders: 0
+No external SNAP processing metadata files found.

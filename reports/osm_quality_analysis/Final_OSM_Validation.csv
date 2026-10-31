@@ -1,0 +1,11 @@
+layer,feature_count,crs,missing_geometries,empty_geometries,invalid_geometries,features_outside_buffer,attribute_fields,null_attribute_cells,osm_id_field_present,river_basin_id_present,geometry_status,spatial_status
+open_public_spaces_point,48,EPSG:4326,0,0,0,0,25,721,True,False,PASS,PASS
+roads_line,94126,EPSG:4326,0,0,0,0,117,10198593,True,False,PASS,PASS
+water_polygons_polygon,75,EPSG:4326,0,0,0,0,20,771,True,False,PASS,PASS
+water_lines_line,199,EPSG:4326,0,0,0,0,17,1572,True,False,PASS,PASS
+landuse_polygon,509,EPSG:4326,0,0,0,0,58,25119,True,False,PASS,PASS
+open_public_spaces_polygon,353,EPSG:4326,0,0,0,0,43,11902,True,False,PASS,PASS
+buildings_polygon,44887,EPSG:4326,0,0,0,0,188,8072881,True,False,PASS,PASS
+roads_point,445,EPSG:4326,0,0,0,0,28,7750,True,False,PASS,PASS
+landuse_point,1,EPSG:4326,0,0,0,0,9,0,True,False,PASS,PASS
+water_lines_point,1,EPSG:4326,0,0,0,0,8,0,True,False,PASS,PASS

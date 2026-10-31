@@ -1,0 +1,170 @@
+======================================================================
+FINAL VALIDATION OF CLIPPED OSM REFERENCE DATA
+======================================================================
+
+Validation CRS: EPSG:32643
+Buffer area: 1474.517 km²
+
+Total layers discovered: 10
+
+----------------------------------------------------------------------
+LAYER: open_public_spaces_point
+----------------------------------------------------------------------
+Feature count: 48
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 25
+Null attribute cells: 721
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: roads_line
+----------------------------------------------------------------------
+Feature count: 94,126
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 117
+Null attribute cells: 10198593
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: water_polygons_polygon
+----------------------------------------------------------------------
+Feature count: 75
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 20
+Null attribute cells: 771
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: water_lines_line
+----------------------------------------------------------------------
+Feature count: 199
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 17
+Null attribute cells: 1572
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: landuse_polygon
+----------------------------------------------------------------------
+Feature count: 509
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 58
+Null attribute cells: 25119
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: open_public_spaces_polygon
+----------------------------------------------------------------------
+Feature count: 353
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 43
+Null attribute cells: 11902
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: buildings_polygon
+----------------------------------------------------------------------
+Feature count: 44,887
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 188
+Null attribute cells: 8072881
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: roads_point
+----------------------------------------------------------------------
+Feature count: 445
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 28
+Null attribute cells: 7750
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: landuse_point
+----------------------------------------------------------------------
+Feature count: 1
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 9
+Null attribute cells: 0
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+----------------------------------------------------------------------
+LAYER: water_lines_point
+----------------------------------------------------------------------
+Feature count: 1
+CRS: EPSG:4326
+Missing geometries: 0
+Empty geometries: 0
+Invalid geometries: 0
+Features extending outside buffer: 0
+Attribute fields: 8
+Null attribute cells: 0
+OSM ID field present: True
+Excluded river-basin ID present: False
+
+======================================================================
+FINAL DATASET SUMMARY
+======================================================================
+Total layers: 10
+Total features: 140,644
+Total missing geometries: 0
+Total empty geometries: 0
+Total invalid geometries: 0
+Total features extending outside buffer: 0
+Layers with missing CRS: 0
+Total attribute fields across layers: 513
+Ganga-Yamuna river-basin ID absent: YES
+
+======================================================================
+VALIDATION STATUS
+======================================================================
+PASS: All tested geometry, CRS, spatial and exclusion checks passed.
+
+Reports saved:
+C:\Users\ssat-\Documents\RemoteSensing_Projects\Project_02_Jaipur_SAR_Urban_Expansion\reports\osm_quality_analysis\Final_OSM_Validation.csv
+C:\Users\ssat-\Documents\RemoteSensing_Projects\Project_02_Jaipur_SAR_Urban_Expansion\reports\osm_quality_analysis\Final_OSM_Validation.txt

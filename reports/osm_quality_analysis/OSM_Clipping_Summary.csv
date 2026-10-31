@@ -1,0 +1,11 @@
+layer,original_features,intersecting_features,clipped_features,features_not_in_output,output_crs
+open_public_spaces_point,48,48,48,0,EPSG:4326
+roads_line,98088,94126,94126,3962,EPSG:4326
+water_polygons_polygon,76,75,75,1,EPSG:4326
+water_lines_line,219,199,199,20,EPSG:4326
+landuse_polygon,575,509,509,66,EPSG:4326
+open_public_spaces_polygon,353,353,353,0,EPSG:4326
+buildings_polygon,45362,44887,44887,475,EPSG:4326
+roads_point,446,445,445,1,EPSG:4326
+landuse_point,1,1,1,0,EPSG:4326
+water_lines_point,1,1,1,0,EPSG:4326
