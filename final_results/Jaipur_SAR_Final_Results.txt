@@ -1,0 +1,119 @@
+===========================================================================
+JAIPUR SAR-BASED URBAN CHANGE ANALYSIS
+CONSOLIDATED PROJECT RESULTS
+===========================================================================
+
+STUDY OVERVIEW
+---------------------------------------------------------------------------
+Study area: Jaipur Municipal Corporation boundary
+Sensor: Sentinel-1A SAR
+Acquisition years: 2016, 2020 and 2025
+Polarizations: VV and VH
+Raster resolution: 10 m
+Projected CRS: EPSG:32643
+Feature bands: 15
+Analysis: Multi-temporal SAR backscatter change
+
+
+SAR COVERAGE
+---------------------------------------------------------------------------
+Municipal rasterized area: 278.3437 km²
+Common valid pixels: 2,783,437.0000 pixels
+Common valid area: 278.3437 km²
+Common municipal coverage: 100.0000 %
+2016 VV coverage: 100.0000 %
+2016 VH coverage: 100.0000 %
+2020 VV coverage: 100.0000 %
+2020 VH coverage: 100.0000 %
+2025 VV coverage: 100.0000 %
+2025 VH coverage: 100.0000 %
+
+TEMPORAL SAR CHANGE
+---------------------------------------------------------------------------
+VV_2016_2020_CHANGE — Mean: 0.5326 dB
+VV_2016_2020_CHANGE — Median: 0.4119 dB
+VV_2016_2020_CHANGE — Standard deviation: 2.2343 dB
+VV_2016_2020_CHANGE — 5th percentile: -2.3852 dB
+VV_2016_2020_CHANGE — 95th percentile: 3.8728 dB
+VV_2016_2020_CHANGE — valid pixels: 2,783,437.0000 pixels
+VH_2016_2020_CHANGE — Mean: 0.1250 dB
+VH_2016_2020_CHANGE — Median: 0.0791 dB
+VH_2016_2020_CHANGE — Standard deviation: 1.6785 dB
+VH_2016_2020_CHANGE — 5th percentile: -2.3079 dB
+VH_2016_2020_CHANGE — 95th percentile: 2.6911 dB
+VH_2016_2020_CHANGE — valid pixels: 2,783,437.0000 pixels
+VV_2020_2025_CHANGE — Mean: 0.6916 dB
+VV_2020_2025_CHANGE — Median: 0.5291 dB
+VV_2020_2025_CHANGE — Standard deviation: 2.3374 dB
+VV_2020_2025_CHANGE — 5th percentile: -2.3378 dB
+VV_2020_2025_CHANGE — 95th percentile: 4.2765 dB
+VV_2020_2025_CHANGE — valid pixels: 2,783,437.0000 pixels
+VH_2020_2025_CHANGE — Mean: 0.4658 dB
+VH_2020_2025_CHANGE — Median: 0.3990 dB
+VH_2020_2025_CHANGE — Standard deviation: 1.7280 dB
+VH_2020_2025_CHANGE — 5th percentile: -1.9561 dB
+VH_2020_2025_CHANGE — 95th percentile: 3.0714 dB
+VH_2020_2025_CHANGE — valid pixels: 2,783,437.0000 pixels
+VV_2016_2025_CHANGE — Mean: 1.2242 dB
+VV_2016_2025_CHANGE — Median: 0.9350 dB
+VV_2016_2025_CHANGE — Standard deviation: 2.7931 dB
+VV_2016_2025_CHANGE — 5th percentile: -2.3278 dB
+VV_2016_2025_CHANGE — 95th percentile: 5.8661 dB
+VV_2016_2025_CHANGE — valid pixels: 2,783,437.0000 pixels
+VH_2016_2025_CHANGE — Mean: 0.5907 dB
+VH_2016_2025_CHANGE — Median: 0.4477 dB
+VH_2016_2025_CHANGE — Standard deviation: 2.0595 dB
+VH_2016_2025_CHANGE — 5th percentile: -2.2681 dB
+VH_2016_2025_CHANGE — 95th percentile: 3.9155 dB
+VH_2016_2025_CHANGE — valid pixels: 2,783,437.0000 pixels
+
+SAR CHANGE CLUSTERS
+---------------------------------------------------------------------------
+Retained cluster count: 196.0000 clusters
+Total retained candidate area: 2.3042 km²
+Largest candidate cluster: 6.1700 hectares
+Median candidate cluster area: 0.8600 hectares
+
+OSM COMPARISON
+---------------------------------------------------------------------------
+Current OSM buildings in municipality: 31,993.0000 features
+Current OSM land-use features in municipality: 236.0000 features
+Candidate area overlapping current OSM buildings: 0.0329 km²
+Candidate area overlapping current OSM buildings: 1.4296 %
+
+OSM MUNICIPAL COVERAGE
+---------------------------------------------------------------------------
+Land use feature count: 236.0000 features
+Land use mapped area: 22.1568 km²
+Land use municipal coverage: 7.9602 %
+Building footprints feature count: 31,993.0000 features
+Building footprints mapped area: 5.8275 km²
+Building footprints municipal coverage: 2.0936 %
+Open public spaces feature count: 242.0000 features
+Open public spaces mapped area: 2.4878 km²
+Open public spaces municipal coverage: 0.8938 %
+Water polygons feature count: 27.0000 features
+Water polygons mapped area: 0.9328 km²
+Water polygons municipal coverage: 0.3351 %
+
+INTERPRETATION AND LIMITATIONS
+---------------------------------------------------------------------------
+The detected SAR clusters represent exploratory backscatter-change candidates.
+They are not independently verified urban expansion or construction labels.
+Current OpenStreetMap data were used as spatial reference information.
+Current OSM building footprints do not establish the historical presence or absence of buildings in 2016 or 2020.
+The percentage of SAR candidate area overlapping current OSM buildings is a spatial overlap statistic, not a classification accuracy score.
+Further historical imagery interpretation and independent validation are required before claiming quantified urban expansion.
+
+SOURCE REPORTS
+---------------------------------------------------------------------------
+sar_coverage: SAR_Common_Municipal_Coverage.csv
+temporal_statistics: SAR_Temporal_Change_Statistics.csv
+cluster_statistics: SAR_Joint_Change_Cluster_Statistics.csv
+osm_comparison: SAR_Cluster_OSM_Overall_Summary.csv
+osm_municipal: OSM_Municipal_Spatial_Coverage.csv
+individual_coverage: SAR_Municipal_Coverage_By_Date.csv
+
+===========================================================================
+END OF CONSOLIDATED RESULTS
+===========================================================================
